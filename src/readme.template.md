@@ -2,7 +2,7 @@ On this planet for **{{age}} days**.
 
 # Hello All! <img src="assets/wave.gif" width="32px" alt="">
 
-<img src="assets/banner.png" style="margin-bottom:16px;" alt="👋 👋 👋 Hello All 👋 👋 👋">
+<img src="assets/banner.png" style="margin-bottom:16px;" alt="👋👋👋 Hello All 👋👋👋">
 
 ### 😄 About
 
