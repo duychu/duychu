@@ -5,7 +5,7 @@ On this planet for **{{age}} days**.
 👋👋👋 Hello All 👋👋👋
 
 <img src="assets/footer-gopher.jpg" style="margin-bottom:16px;" alt="">
-<img src="https://www.python.org/static/img/python-logo.png" style="margin-bottom:16px;" alt="">
+<img src="assets/python-logo.png" style="margin-bottom:16px;" alt="">
 
 
 ### 😄 About
