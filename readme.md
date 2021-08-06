@@ -5,6 +5,8 @@ On this planet for **10548 days**.
 👋👋👋 Hello All 👋👋👋
 
 <img src="assets/footer-gopher.jpg" style="margin-bottom:16px;" alt="">
+<img src="assets/python-logo.png" style="margin-bottom:16px;" alt="">
+
 
 ### 😄 About
 
