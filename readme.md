@@ -1,4 +1,4 @@
-On this planet for **10809 days**.
+On this planet for **10810 days**.
 
 # Hello All! <img src="assets/wave.gif" width="32px" alt="">
 
@@ -22,4 +22,4 @@ I love to explore new technologies.
 
 ### 🖊️ Writing
 
-<sub>Last updated by Github Actions on 24 Apr, 2022.</sub>
+<sub>Last updated by Github Actions on 25 Apr, 2022.</sub>
