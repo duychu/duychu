@@ -27,6 +27,8 @@ computing and MLOps.
 I am Certified Kubernetes Administrator (CKA) and having 2x AWS Certified now. I am expertise in Python. Currently, I am working
 as a Technical Lead at HCL Technologies (Vietnam Office branch, Hanoi ODC).
 
+Visit [my credly profile](https://www.credly.com/users/duy-chu/badges) to know more.
+
 ## 🙏 Open Source
 
 
