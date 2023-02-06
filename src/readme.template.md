@@ -4,9 +4,9 @@ On this planet for **{{age}} days**.
 
 👋👋👋 Hello All 👋👋👋
 
-<img src="assets/aws-saa.jpg" style="margin-bottom:16px;" alt="">
-<img src="assets/aws-dva.jpg" style="margin-bottom:16px;" alt="">
-<img src="assets/cka.jpg" style="margin-bottom:16px;" alt="">
+<img src="assets/aws-saa.png" style="margin-bottom:16px;" alt="">
+<img src="assets/aws-dva.png" style="margin-bottom:16px;" alt="">
+<img src="assets/cka.png" style="margin-bottom:16px;" alt="">
 
 
 ## 😄 About
