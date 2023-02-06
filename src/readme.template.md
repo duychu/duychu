@@ -4,10 +4,14 @@ On this planet for **{{age}} days**.
 
 👋👋👋 Hello All 👋👋👋
 
-<img src="assets/aws-saa.png" style="margin-bottom:16px;" alt="">
-<img src="assets/aws-dva.png" style="margin-bottom:16px;" alt="">
-<img src="assets/cka.png" style="margin-bottom:16px;" alt="">
+<table>
+    <tr>
+        <td><img src="assets/aws-saa.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/aws-dva.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/cka.png" style="margin-bottom:16px;" alt=""></td>
+    </tr>
 
+</table>
 
 ## 😄 About
 
@@ -29,6 +33,20 @@ as a Technical Lead at HCL Technologies (Vietnam Office branch, Hanoi ODC).
 ## 💻 Study and Work
 
 I love to explore new technologies. 
+
+<table>
+    <tr>
+        <td><img src="assets/aws-maf.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/aws-ta.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/ibm-da.png" style="margin-bottom:16px;" alt=""></td>
+    </tr>
+    <tr>
+        <td><img src="assets/ibm-dvp.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/lf-ke.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/ibm-dawp.png" style="margin-bottom:16px;" alt=""></td>
+    </tr>
+
+</table>
 
 - **Python** - Almost Everywhere
 
