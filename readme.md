@@ -1,4 +1,4 @@
-On this planet for **11106 days**.
+On this planet for **11107 days**.
 
 # Hello All! <img src="assets/wave.gif" width="32px" alt="">
 
@@ -6,9 +6,10 @@ On this planet for **11106 days**.
 
 <table>
     <tr>
+        <td><img src="assets/cka.png" style="margin-bottom:16px;" alt=""></td>
         <td><img src="assets/aws-saa.png" style="margin-bottom:16px;" alt=""></td>
         <td><img src="assets/aws-dva.png" style="margin-bottom:16px;" alt=""></td>
-        <td><img src="assets/cka.png" style="margin-bottom:16px;" alt=""></td>
+        <td><img src="assets/ckad.png" style="margin-bottom:16px;" alt=""></td>
     </tr>
 
 </table>
@@ -31,10 +32,12 @@ Visit [my credly profile](https://www.credly.com/users/duy-chu/badges) to know m
 
 ## 🙏 Open Source
 
+Most of the time I spend will be reading about Python and new technology around it,
 
 ## 💻 Study and Work
 
-I love to explore new technologies. 
+I love to explore new technologies. I usually O'Reilly live events and published books to study
+Some badges I'd like to share, it is not my stong point, but it is what I have learned and achieved
 
 <table>
     <tr>
@@ -54,4 +57,4 @@ I love to explore new technologies.
 
 ## 🖊️ Writing
 
-<sub>Last updated by Github Actions on 15 Feb, 2023.</sub>
+<sub>Last updated by Github Actions on 16 Feb, 2023.</sub>
