@@ -1,4 +1,4 @@
-On this planet for **11215 days**.
+On this planet for **11216 days**.
 
 # Hello All! <img src="assets/wave.gif" width="32px" alt="">
 
@@ -57,4 +57,4 @@ Some badges I'd like to share, it is not my stong point, but it is what I have l
 
 ## 🖊️ Writing
 
-<sub>Last updated by Github Actions on 04 Jun, 2023.</sub>
+<sub>Last updated by Github Actions on 05 Jun, 2023.</sub>
