@@ -1,5 +1,3 @@
-On this planet for **{{age}} days**.
-
 # Hello All! <img src="assets/wave.gif" width="32px" alt="">
 
 👋👋👋 Hello All 👋👋👋
