@@ -54,4 +54,4 @@ I have my own homelab which I am actively testing and optimizing it with new tec
 
 ## 🖊️ Writing
 
-<sub>Last updated by Github Actions on 01 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 01 Feb, 2026.</sub>
